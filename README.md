@@ -1,1 +1,1 @@
-# PPCs
+# project on Prior Predictive Check and Posterior Predictive Check 
